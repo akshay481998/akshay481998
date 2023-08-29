@@ -7,21 +7,18 @@
   </p>
 
   <div id="badges">
-  <a href="https://www.linkedin.com/in/mihirkudale/">
+  <a href="https://www.linkedin.com/in/akshay-kadam-9631a31bb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://linktr.ee/mihirkudale">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
-  </a>
-  <a href="mailto:mihirkudale94@outlook.com">
+   
+  <a href="mailto:kadamakshays911@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   </div>
-      <img src="https://komarev.com/ghpvc/?username=mihirkudale&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+      <img src="https://komarev.com/ghpvc/?username=akshay481998&style=flat-square&color=blue" alt=""/>
+ 
+<h1 align="center">Hi 👋, I'm Akshay Kadam</h1>
+
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -29,30 +26,30 @@
 
 ## **ABOUT ME**
 
-* 👀 A Data Science Professional with Master's Degree in Computer Applications (MCA) and also a Diploma in Electronics and Telecommunication Engineer🎓
-* 🔭 IBM Data Science Professional Certified🎖️| Google Data Analytics Professional Certified🎖️| Datacamp Certified Data Analyst in Power BI🎖️| iNeuron Certified Full Stack Data Science🎖️
+* 👀 A Data Science Professional with Master's Degree in Statistics.🎓
+🎖️| iNeuron Certified Full Stack Data Science🎖️
 
-  <a href = "https://www.credly.com/badges/36e4432a-25da-409a-90ef-2c4d9ccfaffb?source=linked_in_profile"><img src="https://img.shields.io/badge/IBM DATA SCIENCE  PROFESSIONAL-0077B5?style=for-the-badge&logo=IBM&logoColor=white" /> </a> 
-  <a href = "https://www.credly.com/badges/a3815cbd-8a79-4336-92e7-ba5e9a257c75/public_url"><img src="https://img.shields.io/badge/Google DATA ANALYTICS PROFESSIONAL -f5f6f7?style=for-the-badge&logo=Google&logoColor=blue" /> 
-  
 * 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing & Data Analytics.
 
 * 💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 
-* 💬 Ask me about data analytics, data science
-* 📝 I regularly write articles on<br> Linkedin --> https://www.linkedin.com/in/mihirkudale/
-* 📫 How to reach me mihirkudale94@outlook.com<br><br>
+* 💬 Ask me about data analytics, data science.
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+* 📫 How to reach me kadamakshays911@gmail.com<br><br>
 
 * 👩‍💻 I'm working on
   Building projects and my portfolio
 
 ## GitHub Stats 💯
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirkudale&show_icons=true&locale=en&layout=compact" alt="mihirkudale" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay481998&show_icons=true&locale=en&layout=compact" alt="akshay481998" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirkudale&show_icons=true&locale=en" alt="mihirkudale" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay481998&show_icons=true&locale=en" alt="akshay481998" /></p>
 
 ## Consistency is key ✨
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirkudale&" alt="mihirkudale" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay481998&" alt="akshay481998" /></p>
   
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
